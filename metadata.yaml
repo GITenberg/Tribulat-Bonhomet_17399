@@ -21,6 +21,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Auguste_Villiers_de_l%27Isle-Adam
     - http://en.wikipedia.org/wiki/Auguste_Villiers_de_l%27Isle-Adam
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17399#Tribulat-Bonhomet
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2005-12-26'
 gutenberg_type: Text
